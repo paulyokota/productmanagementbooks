@@ -166,7 +166,7 @@ h1,h2 {
 }
 
 .grid {
-	height: 100%;
+	height: 70%;
 	margin-top: 30px;
 	padding: 2.5%;
 	padding-bottom: 30px;
@@ -215,8 +215,17 @@ h1,h2 {
 	background-image: url(assets/intercom.png);
 }
 
+.everyday {
+	background-image: url(assets/everyday.png);	
+}
 
+.chasm {
+	background-image: url(assets/chasm.png);	
+}
 
+.innovator {
+	background-image: url(assets/innovator.png);	
+}
 
 .cell:hover,.banner:hover {
 	background-color: #ddd;
